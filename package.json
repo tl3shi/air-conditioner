@@ -4,9 +4,9 @@
   "version": "0.1.2",
   "private": true,
   "author": {
-    "url": "https://www.yunyoujun.cn",
+    "url": "https://ac.yunyoujun.cn/#/",
     "email": "me@yunyoujun.cn",
-    "name": "YunYouJun"
+    "name": "CoderStone, Original Author: YunYouJun"
   },
   "scripts": {
     "dev": "yarn start",
@@ -38,9 +38,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YunYouJun/air-conditioner"
+    "url": "https://github.com/tl3shi/air-conditioner"
   },
-  "homepage": "https://ac.yunyoujun.cn/",
+  "homepage": "http://fan.coderstone.cn/",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
