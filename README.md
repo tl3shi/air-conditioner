@@ -19,4 +19,6 @@
 
 ## 原作者：yunyouju
 
-see: https://www.yunyoujun.cn/
+小哥挺有意思的
+
+他博客: https://www.yunyoujun.cn/
