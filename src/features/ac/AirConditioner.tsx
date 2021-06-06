@@ -3,7 +3,6 @@ import { makeStyles } from "@material-ui/styles";
 import { Box, Grid, Typography, Fade } from "@material-ui/core";
 import logo from "../../logo.svg";
 
-import * as pkg from "../../../package.json";
 
 import "./AirConditioner.scss";
 import { useAppSelector } from "../../app/hooks";
@@ -98,8 +97,8 @@ function AcLogo(props: any) {
     // <Box align="center" mt={12}>
     <Box textAlign="center" mt={12}>
       <a
-        href=""
-        title=""
+        href="https://t.1yb.co/s0ga"
+        title="说明书"
         target="_blank"
         rel="noreferrer noopener"
       >
