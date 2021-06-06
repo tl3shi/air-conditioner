@@ -5,8 +5,8 @@
   "private": true,
   "author": {
     "url": "https://t.1yb.co/s0ga",
-    "email": "me@yunyoujun.cn",
-    "name": "源码戳此,来源:yunyoujun"
+    "email": "",
+    "name": "源码戳此, 来源:yunyoujun"
   },
   "scripts": {
     "dev": "yarn start",
@@ -36,11 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tl3shi/air-conditioner"
-  },
-  "homepage": "http://fan.coderstone.cn/",
+  "homepage": "http://ac.coderstone.cn/",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",

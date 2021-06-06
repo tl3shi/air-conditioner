@@ -32,8 +32,6 @@ function consoleInfo(
 
 function App() {
   useEffect(() => {
-    consoleInfo(pkg.name, pkg.repository.url);
-    consoleInfo("@" + pkg.author.name, pkg.author.url);
   }, []);
   return (
     <ThemeProvider>

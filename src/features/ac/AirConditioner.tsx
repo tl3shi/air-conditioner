@@ -98,8 +98,8 @@ function AcLogo(props: any) {
     // <Box align="center" mt={12}>
     <Box textAlign="center" mt={12}>
       <a
-        href={pkg.repository.url}
-        title={pkg.description}
+        href=""
+        title=""
         target="_blank"
         rel="noreferrer noopener"
       >
